@@ -671,7 +671,7 @@ def program_intro():
                 os.system("""
                 cd -
                 rm -rf PhoneX
-                git clone https://github.com/SoloTech01/PhoneX.git
+                git clone https://github.com/TheLogeek/PhoneX.git
                 cd PhoneX
                 python3 phonex.py
                         """)
