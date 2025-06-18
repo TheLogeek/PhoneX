@@ -1,4 +1,4 @@
-#print("CREATED BY SOLOMON ADENUGA (SOLOTECH01)")
+#print("CREATED BY SOLOMON ADENUGA (Logeek)")
 
 import random, os, sys, colorama
 
