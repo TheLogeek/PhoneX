@@ -87,7 +87,7 @@ def program_intro():
 [+] Tool name: PhoneX
 [+] Author: Solomon Adenuga
 [+] Version: 1.3
-[+] Github: https://github.com/SoloTech01
+[+] Github: https://github.com/TheLogeek
 [+] Whatsapp: +2348023710562
 """)
         print("xxxxxx" * 11)
